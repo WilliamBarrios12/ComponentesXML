@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="albums_array">
+        <item>LVEU:Vive la tuya...No la mia</item>
+        <item>La vida es una</item>
+        <item>Lyke mike</item>
+        <item>Easy money baby</item>
+        <item>El final del principio</item>
+    </string-array>
+</resources>

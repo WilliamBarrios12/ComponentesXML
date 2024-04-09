@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/imagen_nav"
+        android:title="Imagen"
+        android:icon="@drawable/ic_imagen"
+        />
+    <item android:id="@+id/spinner_nav"
+        android:title="Spinner"
+        android:icon="@drawable/ic_spinner"
+        />
+
+</menu>
